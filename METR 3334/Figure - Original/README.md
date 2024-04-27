@@ -1,0 +1,9 @@
+Summaries of the figures:
+
+Damage - 	The figure is from a journal article about “social inequalities in climate change-attributed impacts of Hurricane Harvey.” This figure shows the estimated per capita property damage due to Hurricane Harvey flooding. This figure was divided into four racial categories: “Latina/x/o”, “Black”, “White”, and “Other.” This figure relates to our capstone project since we are primarily focusing on flooding due to Hurricane Harvey within different communities. These communities consist of various racial and ethnic backgrounds. 
+
+Flood Plain - This figure is a part of a case study done between people in the New Jersey towns of Easton and Lambertville to gauge their perception on how risks are communicated to the public. This particular figure shows the percentage of interviewees of Easton and Lambertville who live in or outside of the Delaware River Floodplain. There was also an option for individuals to choose if they didn’t know where their home was located within relation to the floodplain. Overall this figure is just used to show how informed the individuals of the two cities are of their homes within relation to the Delaware River Floodplain.
+
+Harvey Deaths - This figure is a pie chart of the causes of death for Hurricane Harvey. Since the majority of the deaths were due to drowning, another pie chart detailing the subcategories of drowning deaths extends off the drowning slice of the cause of death pie chart.
+
+Houston Income - This bar graph displays median household income among those in Houston by national origin. This graph may be of importance when diagnosing reasons for the varying response, reaction, and recovery of various socioeconomic groups (including national origin) amidst hurricane-based flooding, specifically in regards to Houston during Harvey. The graph was sourced from the 2018-2022 American Community Survey.
